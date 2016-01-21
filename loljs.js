@@ -1,7 +1,7 @@
 function loljs(lol){
 	//NOTE:
 	//to initialize loljs copy and paste:
-	//<script src="loljs/loljs.js"></script>
+	//<script src="loljs.js"></script>
 	//under the <title> of your lolpage
 	//make sure the folder 'loljs' is in the same directory as your lolpage
 	//
