@@ -40,7 +40,7 @@ function loljs(lol){
 		}
 		//LOL!
 		var lol_audio = document.createElement('audio');
-		lol_audio.setAttribute('src', "loljs/loljs_audio/"+thechosenarr[Math.ceil(Math.random()*thechosenarr.length)-1]+".mp3");
+		lol_audio.setAttribute('src', "loljs_audio/"+thechosenarr[Math.ceil(Math.random()*thechosenarr.length)-1]+".mp3");
 		lol_audio.play();
 		//the lol control (only one lol at a time, else madness)
 		bool_maylol = false;
