@@ -18,7 +18,7 @@ Instructions:
 Features Include:
 
 * Ticklish page.
-* Scrollbars lol.
+* Scrollbars lol out loud.
 * Written content is, for the most part, lol enhanced.
 
 <a href="http://nathalielawhead.com/js/loljs/LOL - Wikipedia, the free encyclopedia.html">Click here to view the live demo!</a>
