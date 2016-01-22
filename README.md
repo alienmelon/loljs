@@ -13,6 +13,12 @@ Instructions:
 * Upload lol.js, and loljs_audio to your server. Make sure this is in the same directory as the page you wish to lol.
 
 * Then add the following to your html enabled internet site, or web page:
-< script src="loljs.js" > console.log("lol!"); < /script >
+< script src="loljs.js" > < /script >
+
+Features Include:
+
+* Ticklish page.
+* Scrollbars lol.
+* Written content is, for the most part, lol enhanced.
 
 <a href="http://nathalielawhead.com/js/loljs/LOL - Wikipedia, the free encyclopedia.html">Click here to view the live demo!</a>
