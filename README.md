@@ -13,7 +13,7 @@ Instructions:
 * Upload lol.js, and loljs_audio to your server. Make sure this is in the same directory as the page you wish to lol.
 
 * Then add the following to your html enabled internet site, or web page:
-- <code> < script src="loljs.js" > < /script > </code>
+- <code> < script src="loljs.js" > < /script > </code> but remove the spaces, lol
 
 Features Include:
 
